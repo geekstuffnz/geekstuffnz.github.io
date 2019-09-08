@@ -23,7 +23,7 @@ email: kopara@aok.nz
 description: >- # this means to ignore newlines until "baseurl:"
   Kōpara is a lesser known Māori name for the Native New Zealand Bellbird more 
  commonly called Korimako or Makomako. 
-  Historically a small sawmilling settlement in a remote valley just west of the Main Divide in New Zealand's South Island is known as 'The Kopara'
+  Historically a small sawmilling settlement in a remote valley just west of the Main Divide in New Zealand's South Island is known as The Kopara
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
