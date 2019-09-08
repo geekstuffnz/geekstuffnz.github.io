@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to The Kopara"
 date:   2019-09-08 23:34:54 +1200
 categories: jekyll update
 ---

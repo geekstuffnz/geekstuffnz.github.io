@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kōpara
+title: Kōpara 
+
 email: kopara@aok.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  Kōpara is a lesser known Māori name for the Native New Zealand Bellbird more 
- commonly called Korimako or Makomako. 
-  Historically a small sawmilling settlement in a remote valley just west of the Main Divide in New Zealand's South Island is known as The Kopara
+  Kōpara is a lesser known Māori name for the Native New Zealand Bellbird more  commonly called Korimako or Makomako. Historically a small sawmilling settlement in a remote valley just west of the Main Divide in New Zealands South Island is also known as The Kopara
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 theme: minima
